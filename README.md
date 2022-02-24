@@ -13,4 +13,4 @@ Flappy ball included:
     • Random obstacle generation, keeping track of the position of the last 'gate' in order to let the next one to be reachable by the user. 
 
 
-This project was never published on the App Store and remained only 
+This project was never published on the App Store and remained only a great exercise.
