@@ -7,10 +7,10 @@ The game was an endless-type one based on different levels, these were different
 
 Flappy ball included: 
 
-    • Endless-type levels;
-    • Customizable ball, the user was able to buy different dresses for it spending the points he earned or buying more points with In-App Purchasings;
-    • Infinite number of levels with increasing and decreasing speed and obstacles;
-    • Random obstacle generation, keeping track of the position of the last 'gate' in order to let the next one to be reachable by the user. 
+   - Endless-type levels;
+   - Customizable ball, the user was able to buy different dresses for it spending the points he earned or buying more points with In-App Purchasings;
+   - Infinite number of levels with increasing and decreasing speed and obstacles;
+   - Random obstacle generation, keeping track of the position of the last 'gate' in order to let the next one to be reachable by the user. 
 
 
 This project was never published on the App Store and remained only a great exercise.
